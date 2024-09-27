@@ -1,0 +1,17 @@
+div.row {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+  }
+  
+  div.left {
+    width: 70%;
+    float: left;
+    box-sizing: border-box;
+  }
+  
+  div.right {
+    width: 30%;
+    float:left;
+    box-sizing: border-box;
+  }
